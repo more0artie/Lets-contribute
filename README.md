@@ -11,5 +11,6 @@
   <li><B> To Register yourself https://hacktoberfest.digitalocean.com/ <br>
   <li><B> Be part of our live event https://organize.mlh.io/participants/events/4344-hacktoberfest-sce <br>
   <li><B> How to create a PR for (Beginners) : https://github.com/Hacktoberfest-SCE/start-with-github/blob/master/Resources/How%20to%20create%20your%20first%20Pull%20Request.pdf
+    <li><B> Workshop PPT : https://bit.ly/3naOQYX</B></li>
 </ol>
     <div align="center"> 🎊🎊HAPPY HACKING🎊🎊 </div>
